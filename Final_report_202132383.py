@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 class L_ChatBot:                                    # 레벤슈타인기반 챗봇 클래스 정의
     def __init__(self, filepath):
