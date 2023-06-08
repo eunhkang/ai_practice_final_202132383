@@ -76,7 +76,7 @@ class L_ChatBot:                                    # 레벤슈타인기반 챗�
 # CSV 파일 경로 지정
 filepath = 'ChatbotData.csv'
 
-# 챗봇 인스턴스 생성 - 경로 직접 입력
+# 챗봇 인스턴스 생성
 chatbot = L_ChatBot(filepath)
 
 ''' 선택 1. '종료'라는 단어가 입력될 때까지 챗봇과의 대화를 반복할 경우 아래 코드 활성화 '''
